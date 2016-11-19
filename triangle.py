@@ -1,7 +1,7 @@
 # triangle.py
 # challenge: write a function that calculates the
 # perimeter and area of a triangle
-# Sep 2014, Ashlyn Kan
+# Sep 2014, Unchitta Kan
 
 
 import sys
