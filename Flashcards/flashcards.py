@@ -1,5 +1,5 @@
 # Flashcards.py
-# Feb 2014, Ashlyn Kan
+# Feb 2014, Unchitta Kan
 
 import sys
 import re
