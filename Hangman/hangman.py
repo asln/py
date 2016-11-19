@@ -1,6 +1,6 @@
 # Hangman game in Python
 # Sep 11, 2014
-# Ashlyn Kan
+# Unchitta Kan
 
 import random
 import sys
