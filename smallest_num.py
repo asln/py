@@ -1,6 +1,6 @@
 # smallest_num.py
 # challenge: write a function that takes 3 numbers returns the smallest one
-# Sep 2014, Ashlyn Kan
+# Sep 2014, Unchitta Kan
 
 
 print "Finding the smallest number"
