@@ -1,6 +1,6 @@
 # flip.py
 # challenge: take in a word/phrase and flip it
-# Nov 2014, Ashlyn Kan
+# Nov 2014, Unchitta Kan
 
 from Tkinter import *
 
