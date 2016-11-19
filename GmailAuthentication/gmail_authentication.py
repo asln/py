@@ -6,7 +6,7 @@ when they sign up or log in, using the concept of opening, reading,
 and writing files. However, the database in this app is served by a 
 local .txt file and no actual email threads are associated with each user.
 
-October 2014, Ashlyn Kan
+October 2014, Unchitta Kan
 '''
 
 from Tkinter import *
